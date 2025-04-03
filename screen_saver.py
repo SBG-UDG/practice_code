@@ -1,3 +1,6 @@
+# This code was written with Windows in mind, and has only been tested in it.
+# Execution in Linux will most likely not work
+
 import random
 import os
 from math import floor
